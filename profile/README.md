@@ -1,5 +1,4 @@
-# 👋 Bienvenidos al curso de Programación
+# Bienvenidos al curso de Programación 23200, Python
 
-- 📚 [Apuntes y materiales](https://tu-organizacion.github.io)
-- 🗓️ Horarios y evaluación
-- 🔗 Enlaces útiles
+- 📚 [Apuntes de clase y otros materiales docentes](https://uib-23200-programacion.github.io/website)
+
