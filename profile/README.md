@@ -1,6 +1,6 @@
 # 23200 — Programación · Grado en Matemáticas · Escuela Politécnica Superior · Universitat de les Illes Balears
 
-> Asignatura de primer año
+> Asignatura de primer Curso
 
 [![Sitio web del curso](https://img.shields.io/badge/Sitio_web-uib--23200--programacion.github.io-0065BD?style=flat-square&logo=quarto)](https://uib-23200-programacion.github.io/website/)
 [![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
