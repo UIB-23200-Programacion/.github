@@ -14,9 +14,9 @@ Esta asignatura introduce la programación con **Python** a estudiantes del Grad
 
 Para eliminar la fricción inicial, todo el trabajo se realiza en **GitHub Codespaces**: un entorno de desarrollo completo que corre en el navegador, sin necesidad de instalar nada en el ordenador personal.
 
-## Estructura del curso
+## Estructura de la asignatura
 
-El curso se desarrolla a lo largo de 15 semanas (60 horas presenciales) organizadas en 9 temas:
+La asignatura se desarrolla a lo largo de 15 semanas (60 horas presenciales) y se organiza en 9 temas:
 
 | # | Tema | Horas |
 |---|------|:-----:|
