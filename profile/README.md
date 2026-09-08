@@ -4,7 +4,7 @@
 
 [![Sitio web del curso](https://img.shields.io/badge/Sitio_web-uib--23200--programacion.github.io-0065BD?style=flat-square&logo=quarto)](https://uib-23200-programacion.github.io/website/)
 [![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![GitHub Codespaces](https://img.shields.io/badge/GitHub_Codespaces-ready-181717?style=flat-square&logo=github)](https://github.com/features/codespaces)
+[![GitHub Codespaces](https://img.shields.io/badge/GitHub_Codespaces-181717?style=flat-square&logo=github)](https://github.com/features/codespaces)
 
 ---
 
