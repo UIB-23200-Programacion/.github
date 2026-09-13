@@ -61,5 +61,6 @@ Los repositorios de ejercicios siguen la convención de nombres `tXX-nombre-del-
 
 ## Contacto
 
-**Alejandro Mesejo** · `alejandro.mesejo@uib.es`  
-Departament de Ciències Matemàtiques i Informàtica · EPS-UIB
+Alejandro Mesejo — [alejandro.mesejo@uib.es](mailto:alejandro.mesejo@uib.es)
+
+[Departament de Ciències Matemàtiques i Informàtica](https://dmi.uib.cat/) · [EPS-UIB](https://eps.uib.es/)
